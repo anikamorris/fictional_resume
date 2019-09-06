@@ -1,0 +1,12 @@
+body {
+    background-color: darkkhaki;
+}
+
+.main {
+    margin: 200px;
+}
+
+img {
+    max-width: 25%;
+    height: auto;
+}
