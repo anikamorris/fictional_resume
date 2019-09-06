@@ -20,6 +20,7 @@ img {
 
 .content {
     float: right;
+    padding-right: 50px;
 }
 
 .name {
