@@ -1,12 +1,31 @@
 body {
-    background-color: darkkhaki;
+    background-color: #C8C6AE;
+    color: #3D3B23;
+    font-size: 150%;
+    margin-left: 50px;
 }
+
 
 .main {
-    margin: 200px;
-}
+    float: left;
+} 
+
 
 img {
-    max-width: 25%;
+    max-width: 40%;
     height: auto;
+    border-style: solid;
+    border-color: #8A864E
+}
+
+.content {
+    float: right;
+}
+
+.name {
+    display: inline-block;
+}
+
+.skill {
+    float: left;
 }
